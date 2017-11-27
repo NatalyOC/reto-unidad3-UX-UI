@@ -1,7 +1,10 @@
-# Retos: UX-UI
-**Track:** _Common Core_
-**Curso:** _Creando un sitio web interactivo con JavaScript_
-**Unidad:** _Intro a User Experience Design_
+# Retos : UX-UI
+* **Track:** _Common Core_
+* **Curso:** _Creando un sitio web interactivo con JavaScript_
+* **Unidad:** _Intro a User Experience Design_
+
+
+
 ## Objetivo
 Elige una web de tu preferencia y explica qué partes conforman el UX y qué partes el UI.
 ### Youtube
