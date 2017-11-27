@@ -7,12 +7,16 @@
 
 ## Objetivo
 Elige una web de tu preferencia y explica qué partes conforman el UX y qué partes el UI.
+
+
 ### Youtube
 ![youtube website](assets/images/youtube.jpg)![youtube movil](assets/images/movil.jpg)
 
 YouTube es un sitio web dedicado a compartir vídeos. Aloja una variedad de clips de películas, programas de televisión y vídeos musicales, así como contenidos amateur como videoblogs y YouTube Gaming.
 
 #### ¿Qué parte es UX y que parte UI?
+
+Youtube es una página con un buen diseño unido a buena usabilidad.
 
 | UX     | UI    |
 | ------ |------:|
